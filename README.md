@@ -1,6 +1,6 @@
  <body>
-    <h3>Primeiro projeto de Front-end - Janeiro | 2021</h3>
-    <h4>Desenvolvido para estudo de linguagens como HTML, CSS e JavaScript. Com Frameworks Bootstrap e Bulma.</h4>
+    <h3>First Project Frontend - January | 2021</h3>
+    <h4>Developed to study languages ​​such as HTML, CSS and JavaScript. With Bootstrap and Bulma Frameworks.</h4>
   </body>
 
 
